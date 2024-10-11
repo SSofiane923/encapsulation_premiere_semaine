@@ -134,6 +134,7 @@
     <ClCompile Include="IAttacker.cpp" />
     <ClCompile Include="integer.cpp" />
     <ClCompile Include="Point.cpp" />
+    <ClCompile Include="StaticObject.cpp" />
     <ClCompile Include="vector2.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -143,6 +144,7 @@
     <ClInclude Include="IAttacker.h" />
     <ClInclude Include="integer.h" />
     <ClInclude Include="Point.h" />
+    <ClInclude Include="StaticObject.h" />
     <ClInclude Include="Vector2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
